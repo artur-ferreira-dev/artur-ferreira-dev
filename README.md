@@ -14,13 +14,7 @@ Oi! Eu sou Artur, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy
   <a href="https://www.instagram.com/arturfons/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-ferreira23" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <hr>
-
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=artur-ferreira-dev&left_color=green&right_color=red)
-
- 
- <hr>
- 
+  <hr> 
  <div>
 <div align="center">
   <a href="https://github.com/artur-ferreira-dev">
